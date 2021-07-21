@@ -1,0 +1,2 @@
+rootProject.name='Thumbnail'
+include ':app'

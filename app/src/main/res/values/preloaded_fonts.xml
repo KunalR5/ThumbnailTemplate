@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allerta</item>
+        <item>@font/anton</item>
+        <item>@font/arbutus</item>
+        <item>@font/autour_one</item>
+        <item>@font/chango</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/comfortaa_light</item>
+        <item>@font/fascinate</item>
+        <item>@font/fauna_one</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/revalia</item>
+        <item>@font/unlock</item>
+        <item>@font/yatra_one</item>
+    </array>
+</resources>
